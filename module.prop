@@ -4,4 +4,3 @@ version=<string>
 versionCode=<int>
 author=<string>
 description=<string>
-updateJson=<url> (optional)
